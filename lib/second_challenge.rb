@@ -7,7 +7,7 @@ def second_challenge
   }
 
   groceries.values
-  return list.values
+  # return list.values
 
 
 
