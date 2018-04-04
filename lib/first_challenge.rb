@@ -19,5 +19,6 @@ def first_challenge
         favorite_icecream_flavors.delete_if {|x| x == "strawberry"}
       end
     end
-  contacts
+  end
+  con
 end
